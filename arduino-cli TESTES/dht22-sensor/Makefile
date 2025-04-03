@@ -22,3 +22,8 @@ clean:
 
 monitor:
 	arduino-cli monitor --fqbn $(BOARD) --port $(PORT) --config $(BAUDRATE)
+
+
+
+
+
